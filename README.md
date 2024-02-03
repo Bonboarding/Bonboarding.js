@@ -1,8 +1,15 @@
-# Bonboarding
+# User Onboarding and Product Tours
 
-This package helps you to add guided tours and user onboarding flows to web applications with [Bonboarding](https://bonboarding.com).
+### Add product tours and user onboarding flows to your web application with [Bonboarding](https://bonboarding.com).
 
-It provides a wrapper around Bonboarding's JavaScript library, offering a simple and efficient way to integrate it into your web application.  
+<p align="center">
+  <a href="https://bonboarding.com">
+    <img src="https://raw.githubusercontent.com/bonboarding/bonboarding.js/blob/main/assets/header.png?raw=true" alt="Create interactive product tours with popups, step-by-step element highlighting, so your users can get familiar with your platform.">
+  </a>
+</p>
+
+
+This package provides a wrapper around Bonboarding's JavaScript library, offering a simple and efficient way to integrate it into your web application.  
 It supports modern JavaScript and TypeScript projects, and is designed to work seamlessly with popular build systems like Webpack, Browserify, and Rollup.
 
 ## Features

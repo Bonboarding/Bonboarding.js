@@ -1,7 +1,7 @@
 {
   "name": "bonboarding.js",
-  "version": "1.0.1",
-  "description": "Easily load Bonboarding into any web application",
+  "version": "1.0.2",
+  "description": "User Onboarding and Product Tours",
   "main": "dist/bonboarding.min.js",
   "types": "dist/index.d.ts",
   "files": [
@@ -16,11 +16,12 @@
   "keywords": [
     "onboarding",
     "tour",
-    "introjs",
-    "intro",
     "guide",
     "walkthrough",
-    "user-onboarding"
+    "intro",
+    "user-onboarding",
+    "product tour creator",
+    "walkthrough"
   ],
   "author": "Bonboarding <info@bonboarding.com>",
   "homepage": "https://bonboarding.com",
