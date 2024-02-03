@@ -1,9 +1,12 @@
+type AllowedValue = string | number | Date | boolean | null;
+
 type User = {
   uniqueID?: string;
   firstName?: string;
   lastName?: string;
   email?: string;
   signUpDate?: Date | string;
+  [key: string]: AllowedValue | undefined;
 };
 
 const Bonboarding = (() => {
