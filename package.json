@@ -1,6 +1,6 @@
 {
-  "name": "bonboarding.js",
-  "version": "1.0.3",
+  "name": "bonboarding",
+  "version": "1.0.4",
   "description": "User Onboarding and Product Tours",
   "main": "dist/bonboarding.min.js",
   "types": "dist/index.d.ts",
