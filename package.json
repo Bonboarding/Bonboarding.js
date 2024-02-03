@@ -17,7 +17,12 @@
     "walkthrough",
     "user-onboarding"
   ],
-  "author": "bonboarding",
+  "author": "Bonboarding <info@bonboarding.com>",
+  "homepage": "https://bonboarding.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bonboarding/bonboarding.js"
+  },
   "license": "MIT",
   "devDependencies": {
     "@rollup/plugin-typescript": "^11.1.6",
