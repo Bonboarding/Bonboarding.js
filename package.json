@@ -1,8 +1,12 @@
 {
   "name": "bonboarding.js",
   "version": "1.0.0",
-  "description": "Loading script for Bonboarding",
-  "main": "index.ts",
+  "description": "Easily load Bonboarding into any web application",
+  "main": "dist/bonboarding.min.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "type": "module",
   "scripts": {
     "build": "rollup -c",
