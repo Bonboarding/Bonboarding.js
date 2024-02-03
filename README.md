@@ -1,3 +1,5 @@
+# Bonboarding
+
 This package helps you to add guided tours and user onboarding flows to web applications with [Bonboarding](https://bonboarding.com).
 
 It provides a wrapper around Bonboarding's JavaScript library, offering a simple and efficient way to integrate it into your web application.  

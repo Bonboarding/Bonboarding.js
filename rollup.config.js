@@ -6,7 +6,7 @@ export default {
   output: {
     file: './dist/bonboarding.min.js',
     format: 'es',
-    sourcemap: true
+    sourcemap: true,
   },
-  plugins: [typescript(), terser()]
+  plugins: [typescript(), terser()],
 };
