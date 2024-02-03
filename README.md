@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://bonboarding.com">
-    <img src="https://raw.githubusercontent.com/bonboarding/bonboarding.js/blob/main/assets/header.png?raw=true" alt="Create interactive product tours with popups, step-by-step element highlighting, so your users can get familiar with your platform.">
+    <img src="https://github.com/Bonboarding/Bonboarding.js/blob/main/assets/header.png?raw=true" alt="Create interactive product tours with popups, step-by-step element highlighting, so your users can get familiar with your platform.">
   </a>
 </p>
 
