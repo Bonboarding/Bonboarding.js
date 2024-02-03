@@ -56,7 +56,7 @@ Bonboarding.identify({
   firstName: 'Jane',
   lastName: 'Doe',
   email: 'jane.doe@example.com',
-  signUpDate: new Date(),
+  signUpDate: '2021-04-29T14:24:00+02:00',
 });
 ```
 
